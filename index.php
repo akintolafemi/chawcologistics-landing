@@ -106,7 +106,7 @@
                                     </nav>
                                     <div class="header_extra cmt-textcolor-white d-flex flex-row align-items-center justify-content-end">
                                         <div class="header_btn">
-                                            <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-fill cmt-btn-color-skincolor" href="request-quote">Request Quote</a>
+                                            <a class="cmt-btn cmt-btn-size-md cmt-btn-shape-square cmt-btn-style-fill cmt-btn-color-skincolor" href="contactus">Request Quote</a>
                                         </div>
                                     </div>
                                 </div><!-- site-navigation end-->
